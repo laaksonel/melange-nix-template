@@ -1,6 +1,8 @@
-# Nix project template for [Melange](https://github.com/melange-re/melange)
+# Nix project template for [Melange](https://github.com/melange-re/melange) with OCaml 5
 
 This template provides all the necessary dependencies (Node, OCaml, Dune...) to develop and run [Melange](https://github.com/melange-re/melange) projects.
+The project uses hacked version of Melange which supports OCaml 5.
+Currently backwards-compatibility to OCaml 4 is broken.
 
 ## Prerequisites
 
